@@ -1,0 +1,15 @@
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.exe
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.deps.json
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.runtimeconfig.json
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.dll
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\bin\Debug\net8.0\BinaryStringAnalysis.pdb
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.AssemblyInfoInputs.cache
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.AssemblyInfo.cs
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.sourcelink.json
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.dll
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\refint\BinaryStringAnalysis.dll
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.pdb
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\BinaryStringAnalysis.genruntimeconfig.cache
+C:\Users\Anoop\source\repos\BinaryStringAnalysis\BinaryStringAnalysis\obj\Debug\net8.0\ref\BinaryStringAnalysis.dll

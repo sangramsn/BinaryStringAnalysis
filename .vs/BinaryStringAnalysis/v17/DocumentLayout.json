@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anoop\\source\\repos\\BinaryStringAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60CBEC-BAFA-4A89-8444-70BE1B872E34}|BinaryStringAnalysis\\BinaryStringAnalysis.csproj|c:\\users\\anoop\\source\\repos\\binarystringanalysis\\binarystringanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60CBEC-BAFA-4A89-8444-70BE1B872E34}|BinaryStringAnalysis\\BinaryStringAnalysis.csproj|solutionrelative:binarystringanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anoop\\source\\repos\\BinaryStringAnalysis\\BinaryStringAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "BinaryStringAnalysis\\Program.cs",
+              "ToolTip": "C:\\Users\\Anoop\\source\\repos\\BinaryStringAnalysis\\BinaryStringAnalysis\\Program.cs",
+              "RelativeToolTip": "BinaryStringAnalysis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:08:57.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
